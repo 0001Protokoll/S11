@@ -50,7 +50,7 @@ for n in range (12):
         tmp[n].append(" bei "+str(data[i][n][1])+" nm")    
     
     #### ein weiterer für die Konzentrationen
-for i in range (7):
+for i in range (8):
     tmp[12].append(konz[i][0])
 tmp[12].append(" konzentrationen")   
 print (tmp)
