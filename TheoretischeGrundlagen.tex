@@ -1,0 +1,46 @@
+%\input{usepackage.tex}
+
+%\begin{document}
+
+\section{Theoretische Grundlagen}
+
+Grundvoraussetzung der UV/Vis-Spektroskopie ist eine Lichtquelle die monochromatisches Licht emitiert bzw. meine polychromatische Lichtquelle bei der das Licht anschließend durch ein Prisma oder ein Gitter aufgespalten wird. Diese wird nun in zwei Strahlem aufgespalten. Der eine durchläuft nur eine mit dem Lösungsmittel gefüllten Küvette und dient der Referenz, der Andere durchläuft die gleiche Küvette jedoch gefüllt mit dem Analyten in dem Lösungsmittel. Da jedes Medium einen Teil der Strahlung absorbiert kann nun nach durchlaufen der beiden Küvetten subtraktiv der alleinige Beitrag des Analyten ermittelt werden. Die Änderung der Intensität ist proportional zum molaren dekadischen Extinktionskoeefizienten, der Intensität des Lichtes, der Konzentration des Analyten und der Länge des Weges, den das Licht geht, wie in Formel \ref{eq:1} beschrieben.
+
+\begin {equation}
+-dI=\epsilon \cdot I \cdot c \cdot dL
+\label{eq:1}
+\end {equation}
+
+Unterder Voraussetzung, das $\epsilon$ keine Funktion von $c$ ist, was dann der Fall ist, wenn die Photoabsorptionswahrscheinlichekeit für jedes Analytmolekül gleich ist, ist es möglich die Geleichung \ref{eq:1} über den gesamten Weg $L$ zu integrieren. Dies ist dann einfach möglich, wenn vorher durch $I$ geteilt wurde.
+
+
+\begin {equation}
+\frac{dI}{I}=-\epsilon \cdot c \cdot dL
+\label{eq:2}
+\end{equation}
+
+\begin {equation}
+\int_{I_{L=0}}^{I_{L=L_{max}}}\frac{dI}{I}=-\int_{I_{L=0}}^{I_{L=L_{max}}}\epsilon \cdot c \cdot dL
+\label{eq:3}
+\end{equation}
+
+Durch das Integrieren ergibt sich somit Gleichung \ref{eq:4}
+
+\begin {equation}
+ln \frac{{I_{L=0}}}{I_{L=L_{max}}}=\epsilon \cdot c \cdot L_{max}
+\label{eq:4}
+\end{equation}
+
+Durch ersetzten des natürlichen Logarithmus durch den dekadischen und des Extinktionskoeffizienten durch den dekadischen Extinktionskoeffizienten erhält man nun das Lambert-Beersche Gesetz in Gleichung \ref{eq:lambertbeer}.
+
+\begin {equation}
+log \frac{{I_{L=0}}}{I_{L=L_{max}}}=\epsilon_{10} \cdot c \cdot L_{max}
+\label{eq:lambertbeer}
+\end{equation}
+
+$I_{L=0}$ entspricht praktisch der Intensiät des Lichtes, dass den Weg durch die Refernzküvette und $ I_{L=L_{max}}$ der Intensiät des Lichtes, dass den Weg durch die Probenküvette gegangen ist. Somit ist dieser Bruch gleich der Transmission $T$ der Probe, welche durch das Spektrometer gemessen wird. 
+
+
+%\end{document}
+
+
