@@ -45,9 +45,9 @@ print (12)
 
 ###### txt dateien in Array sortiert speichern
 for n in range (12):
-        for i in range (7):
-        tmp[n].append(data[i][n][0])
-    tmp[n].append(" bei "+str(data[i][n][1])+" nm")    
+        for i in range (8):
+            tmp[n].append(data[i][n][0])
+        tmp[n].append(" bei "+str(data[i][n][1])+" nm")    
     
     #### ein weiterer für die Konzentrationen
 for i in range (7):
