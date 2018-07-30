@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.6)  30 JUL 2018 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.6)  30 JUL 2018 11:01
 entering extended mode
 **./Hauptgerüst.tex
 (Hauptgerüst.tex
@@ -2531,7 +2531,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-<Rohdaten/alleExtinktionenzusammen.pdf, id=53, 396.48125pt x 207.77625pt>
+<Rohdaten/alleExtinktionenzusammen.pdf, id=62, 396.48125pt x 207.77625pt>
 File: Rohdaten/alleExtinktionenzusammen.pdf Graphic file (type pdf)
 <use Rohdaten/alleExtinktionenzusammen.pdf>
 Package pdftex.def Info: Rohdaten/alleExtinktionenzusammen.pdf  used on input l
@@ -2576,602 +2576,602 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 5.
-<Rohdaten/Graph0.pdf, id=70, 395.4775pt x 208.78pt>
+<Rohdaten/Graph0.pdf, id=78, 395.4775pt x 208.78pt>
 File: Rohdaten/Graph0.pdf Graphic file (type pdf)
 <use Rohdaten/Graph0.pdf>
 Package pdftex.def Info: Rohdaten/Graph0.pdf  used on input line 12.
 (pdftex.def)             Requested size: 455.24411pt x 240.33403pt.
-<Rohdaten/alleTransmission.pdf, id=71, 396.48125pt x 207.77625pt>
+<Rohdaten/alleTransmission.pdf, id=79, 396.48125pt x 207.77625pt>
 File: Rohdaten/alleTransmission.pdf Graphic file (type pdf)
 <use Rohdaten/alleTransmission.pdf>
 Package pdftex.def Info: Rohdaten/alleTransmission.pdf  used on input line 16.
 (pdftex.def)             Requested size: 455.24411pt x 238.57622pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 23.
  [5 <./Rohdaten/Graph0.pdf> <./Rohdaten/alleTransmission.pdf>]
-Overfull \hbox (62.50047pt too wide) in alignment at lines 24--29
+Overfull \hbox (62.50047pt too wide) in alignment at lines 25--30
  [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 29--51
+Overfull \hbox (62.50047pt too wide) in alignment at lines 30--52
  [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 51--71
+Overfull \hbox (62.50047pt too wide) in alignment at lines 52--72
  [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 71--91
+Overfull \hbox (62.50047pt too wide) in alignment at lines 72--92
  [] [] [] [] [] [] [] [] [] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 92.
 [6]
-Overfull \hbox (62.50047pt too wide) in alignment at lines 91--111
+Overfull \hbox (62.50047pt too wide) in alignment at lines 92--112
  [] [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 118--118
- []|\T1/ppl/m/n/12 (-20) 0.0767228| 
  []
 
 
 Overfull \hbox (4.45287pt too wide) in paragraph at lines 119--119
- []|\T1/ppl/m/n/12 (-20) 0.0467061| 
+ []|\T1/ppl/m/n/12 (-20) 0.0767228| 
  []
 
 
 Overfull \hbox (4.45287pt too wide) in paragraph at lines 120--120
- []|\T1/ppl/m/n/12 (-20) 0.0282828| 
+ []|\T1/ppl/m/n/12 (-20) 0.0467061| 
  []
 
 
 Overfull \hbox (4.45287pt too wide) in paragraph at lines 121--121
- []|\T1/ppl/m/n/12 (-20) 0.0181931| 
+ []|\T1/ppl/m/n/12 (-20) 0.0282828| 
  []
 
 
 Overfull \hbox (4.45287pt too wide) in paragraph at lines 122--122
+ []|\T1/ppl/m/n/12 (-20) 0.0181931| 
+ []
+
+
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 123--123
  []|\T1/ppl/m/n/12 (-20) 0.0122195| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 123--123
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 124--124
  []|\T1/ppl/m/n/12 (-20) 0.00898351| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 124--124
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 125--125
  []|\T1/ppl/m/n/12 (-20) 0.00699706| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 125--125
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 126--126
  []|\T1/ppl/m/n/12 (-20) 0.00599382| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 126--126
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 127--127
  []|\T1/ppl/m/n/12 (-20) 0.00468502| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 127--127
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 128--128
  []|\T1/ppl/m/n/12 (-20) 0.00387984| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 128--128
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 129--129
  []|\T1/ppl/m/n/12 (-20) 0.00337155| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 129--129
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 130--130
  []|\T1/ppl/m/n/12 (-20) 0.00321585| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 130--130
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 131--131
  []|\T1/ppl/m/n/12 (-20) 0.00340731| 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 111--131
+Overfull \hbox (62.50047pt too wide) in alignment at lines 112--132
  [] [] [] [] [] [] [] [] [] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 132.
 [7]
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 131--131
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 132--132
  []|\T1/ppl/m/n/12 (-20) 0.00327159| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 132--132
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 133--133
  []|\T1/ppl/m/n/12 (-20) 0.00306212| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 133--133
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 134--134
  []|\T1/ppl/m/n/12 (-20) 0.00272632| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 134--134
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 135--135
  []|\T1/ppl/m/n/12 (-20) 0.00277203| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 135--135
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 136--136
  []|\T1/ppl/m/n/12 (-20) 0.00265647| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 136--136
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 137--137
  []|\T1/ppl/m/n/12 (-20) 0.00289469| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 137--137
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 138--138
  []|\T1/ppl/m/n/12 (-20) 0.00268553| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 138--138
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 139--139
  []|\T1/ppl/m/n/12 (-20) 0.00321677| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 139--139
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 140--140
  []|\T1/ppl/m/n/12 (-20) 0.00279125| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 140--140
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 141--141
  []|\T1/ppl/m/n/12 (-20) 0.00307848| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 141--141
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 142--142
  []|\T1/ppl/m/n/12 (-20) 0.00221922| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 142--142
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 143--143
  []|\T1/ppl/m/n/12 (-20) 0.00252926| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 143--143
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 144--144
  []|\T1/ppl/m/n/12 (-20) 0.00283405| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 144--144
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 145--145
  []|\T1/ppl/m/n/12 (-20) 0.00296989| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 145--145
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 146--146
  []|\T1/ppl/m/n/12 (-20) 0.00263137| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 146--146
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 147--147
  []|\T1/ppl/m/n/12 (-20) 0.00237336| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 147--147
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 148--148
  []|\T1/ppl/m/n/12 (-20) 0.00204742| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 148--148
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 149--149
  []|\T1/ppl/m/n/12 (-20) 0.00214281| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 149--149
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 150--150
  []|\T1/ppl/m/n/12 (-20) 0.00294273| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 150--150
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 151--151
  []|\T1/ppl/m/n/12 (-20) 0.00310303| 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 131--151
+Overfull \hbox (62.50047pt too wide) in alignment at lines 132--152
  [] [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 151--151
- []|\T1/ppl/m/n/12 (-20) 0.00298077| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 152--152
- []|\T1/ppl/m/n/12 (-20) 0.00254391| 
+ []|\T1/ppl/m/n/12 (-20) 0.00298077| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 153--153
- []|\T1/ppl/m/n/12 (-20) 0.00256361| 
+ []|\T1/ppl/m/n/12 (-20) 0.00254391| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 154--154
- []|\T1/ppl/m/n/12 (-20) 0.00248553| 
+ []|\T1/ppl/m/n/12 (-20) 0.00256361| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 155--155
- []|\T1/ppl/m/n/12 (-20) 0.00277861| 
+ []|\T1/ppl/m/n/12 (-20) 0.00248553| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 156--156
- []|\T1/ppl/m/n/12 (-20) 0.00208536| 
+ []|\T1/ppl/m/n/12 (-20) 0.00277861| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 157--157
- []|\T1/ppl/m/n/12 (-20) 0.00178218| 
+ []|\T1/ppl/m/n/12 (-20) 0.00208536| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 158--158
- []|\T1/ppl/m/n/12 (-20) 0.00169514| 
+ []|\T1/ppl/m/n/12 (-20) 0.00178218| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 159--159
- []|\T1/ppl/m/n/12 (-20) 0.00221957| 
+ []|\T1/ppl/m/n/12 (-20) 0.00169514| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 160--160
- []|\T1/ppl/m/n/12 (-20) 0.00272332| 
+ []|\T1/ppl/m/n/12 (-20) 0.00221957| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 161--161
- []|\T1/ppl/m/n/12 (-20) 0.00302472| 
+ []|\T1/ppl/m/n/12 (-20) 0.00272332| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 162--162
- []|\T1/ppl/m/n/12 (-20) 0.00244669| 
+ []|\T1/ppl/m/n/12 (-20) 0.00302472| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 163--163
- []|\T1/ppl/m/n/12 (-20) 0.00302408| 
+ []|\T1/ppl/m/n/12 (-20) 0.00244669| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 164--164
- []|\T1/ppl/m/n/12 (-20) 0.00264431| 
+ []|\T1/ppl/m/n/12 (-20) 0.00302408| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 165--165
- []|\T1/ppl/m/n/12 (-20) 0.00252569| 
+ []|\T1/ppl/m/n/12 (-20) 0.00264431| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 166--166
- []|\T1/ppl/m/n/12 (-20) 0.00212913| 
+ []|\T1/ppl/m/n/12 (-20) 0.00252569| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 167--167
- []|\T1/ppl/m/n/12 (-20) 0.00231458| 
+ []|\T1/ppl/m/n/12 (-20) 0.00212913| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 168--168
- []|\T1/ppl/m/n/12 (-20) 0.00204538| 
+ []|\T1/ppl/m/n/12 (-20) 0.00231458| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 169--169
- []|\T1/ppl/m/n/12 (-20) 0.00253599| 
+ []|\T1/ppl/m/n/12 (-20) 0.00204538| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 170--170
+ []|\T1/ppl/m/n/12 (-20) 0.00253599| 
+ []
+
+
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 171--171
  []|\T1/ppl/m/n/12 (-20) 0.00257738| 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 151--171
+Overfull \hbox (62.50047pt too wide) in alignment at lines 152--172
  [] [] [] [] [] [] [] [] [] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 171.
+(babel)             in language  on input line 172.
 [8]
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 171--171
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 172--172
  []|\T1/ppl/m/n/12 (-20) 0.00244064| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 172--172
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 173--173
  []|\T1/ppl/m/n/12 (-20) 0.00210037| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 173--173
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 174--174
  []|\T1/ppl/m/n/12 (-20) 0.00221159| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 174--174
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 175--175
  []|\T1/ppl/m/n/12 (-20) 0.00228149| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 175--175
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 176--176
  []|\T1/ppl/m/n/12 (-20) 0.00296232| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 176--176
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 177--177
  []|\T1/ppl/m/n/12 (-20) 0.00295354| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 177--177
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 178--178
  []|\T1/ppl/m/n/12 (-20) 0.00169033| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 178--178
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 179--179
  []|\T1/ppl/m/n/12 (-20) 0.00143519| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 179--179
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 180--180
  []|\T1/ppl/m/n/12 (-20) 0.00107489| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 180--180
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 181--181
  []|\T1/ppl/m/n/12 (-20) 0.00252153| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 181--181
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 182--182
  []|\T1/ppl/m/n/12 (-20) 0.00288158| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 182--182
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 183--183
  []|\T1/ppl/m/n/12 (-20) 0.00221157| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 183--183
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 184--184
  []|\T1/ppl/m/n/12 (-20) 0.00182422| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 184--184
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 185--185
  []|\T1/ppl/m/n/12 (-20) 0.00185185| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 185--185
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 186--186
  []|\T1/ppl/m/n/12 (-20) 0.00191363| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 186--186
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 187--187
  []|\T1/ppl/m/n/12 (-20) 0.00318838| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 187--187
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 188--188
  []|\T1/ppl/m/n/12 (-20) 0.00356744| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 188--188
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 189--189
  []|\T1/ppl/m/n/12 (-20) 0.00339992| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 189--189
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 190--190
  []|\T1/ppl/m/n/12 (-20) 0.00287198| 
  []
 
 
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 190--190
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 191--191
  []|\T1/ppl/m/n/12 (-20) 0.00361579| 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 171--191
+Overfull \hbox (62.50047pt too wide) in alignment at lines 172--192
  [] [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (10.33287pt too wide) in paragraph at lines 191--191
- []|\T1/ppl/m/n/12 (-20) 0.00431198| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 192--192
- []|\T1/ppl/m/n/12 (-20) 0.00450622| 
+ []|\T1/ppl/m/n/12 (-20) 0.00431198| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 193--193
- []|\T1/ppl/m/n/12 (-20) 0.00451376| 
+ []|\T1/ppl/m/n/12 (-20) 0.00450622| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 194--194
- []|\T1/ppl/m/n/12 (-20) 0.00426562| 
+ []|\T1/ppl/m/n/12 (-20) 0.00451376| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 195--195
- []|\T1/ppl/m/n/12 (-20) 0.00540148| 
+ []|\T1/ppl/m/n/12 (-20) 0.00426562| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 196--196
- []|\T1/ppl/m/n/12 (-20) 0.00695433| 
+ []|\T1/ppl/m/n/12 (-20) 0.00540148| 
  []
 
 
 Overfull \hbox (10.33287pt too wide) in paragraph at lines 197--197
+ []|\T1/ppl/m/n/12 (-20) 0.00695433| 
+ []
+
+
+Overfull \hbox (10.33287pt too wide) in paragraph at lines 198--198
  []|\T1/ppl/m/n/12 (-20) 0.00847505| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 198--198
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 199--199
  []|\T1/ppl/m/n/12 (-20) 0.0105573| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 199--199
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 200--200
  []|\T1/ppl/m/n/12 (-20) 0.0135192| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 200--200
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 201--201
  []|\T1/ppl/m/n/12 (-20) 0.0192541| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 201--201
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 202--202
  []|\T1/ppl/m/n/12 (-20) 0.0253115| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 202--202
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 203--203
  []|\T1/ppl/m/n/12 (-20) 0.0332392| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 203--203
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 204--204
  []|\T1/ppl/m/n/12 (-20) 0.0443309| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 204--204
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 205--205
  []|\T1/ppl/m/n/12 (-20) 0.0603351| 
  []
 
 
-Overfull \hbox (4.45287pt too wide) in paragraph at lines 205--205
+Overfull \hbox (4.45287pt too wide) in paragraph at lines 206--206
  []|\T1/ppl/m/n/12 (-20) 0.0798819| 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 191--211
+Overfull \hbox (62.50047pt too wide) in alignment at lines 192--212
  [] [] [] [] [] [] [] [] [] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 211.
+(babel)             in language  on input line 212.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 211.
+(babel)             in language  on input line 212.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 211.
+(babel)             in language  on input line 212.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 211.
+(babel)             in language  on input line 212.
 [9]
-Overfull \hbox (62.50047pt too wide) in alignment at lines 211--231
+Overfull \hbox (62.50047pt too wide) in alignment at lines 212--232
  [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 231--251
+Overfull \hbox (62.50047pt too wide) in alignment at lines 232--252
  [] [] [] [] [] [] [] [] [] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 251.
+(babel)             in language  on input line 252.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 251.
+(babel)             in language  on input line 252.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 251.
+(babel)             in language  on input line 252.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 251.
+(babel)             in language  on input line 252.
 [10]
-Overfull \hbox (62.50047pt too wide) in alignment at lines 251--271
+Overfull \hbox (62.50047pt too wide) in alignment at lines 252--272
  [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 271--291
+Overfull \hbox (62.50047pt too wide) in alignment at lines 272--292
  [] [] [] [] [] [] [] [] [] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 291.
+(babel)             in language  on input line 292.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 291.
+(babel)             in language  on input line 292.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 291.
+(babel)             in language  on input line 292.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 291.
+(babel)             in language  on input line 292.
 [11]
-Overfull \hbox (62.50047pt too wide) in alignment at lines 291--311
+Overfull \hbox (62.50047pt too wide) in alignment at lines 292--312
  [] [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (62.50047pt too wide) in alignment at lines 311--331
+Overfull \hbox (62.50047pt too wide) in alignment at lines 312--332
  [] [] [] [] [] [] [] [] [] 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 331.
+(babel)             in language  on input line 332.
 [12]
-Overfull \hbox (62.50047pt too wide) in alignment at lines 331--337
+Overfull \hbox (62.50047pt too wide) in alignment at lines 332--338
  [] [] [] [] [] [] [] [] [] 
  []
 
@@ -3194,20 +3194,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
  (Hauptgerüst.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 32.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 32.
+Package rerunfilecheck Info: File `Hauptgerüst.out' has not changed.
+(rerunfilecheck)             Checksum: BF9B1910FD859BD31FDDA59100F87967;297.
 
-
-Package rerunfilecheck Warning: File `Hauptgerüst.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Hauptgerüst.out':
-(rerunfilecheck)             Before: D4D85D4F1E3BA5608A17D315AE4C1A2A;195
-(rerunfilecheck)             After:  BF9B1910FD859BD31FDDA59100F87967;297.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'Hauptgerüst.run.xml'.
 \openout1 = `Hauptgerüst.run.xml'.
@@ -3215,11 +3206,11 @@ Package logreq Info: Writing requests to 'Hauptgerüst.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 32.
  ) 
 Here is how much of TeX's memory you used:
- 43943 strings out of 493305
- 862495 string characters out of 3140603
+ 43958 strings out of 493305
+ 862630 string characters out of 3140603
  1415529 words of memory out of 3000000
- 46740 multiletter control sequences out of 15000+200000
- 563957 words of font info for 134 fonts, out of 3000000 for 9000
+ 46743 multiletter control sequences out of 15000+200000
+ 564593 words of font info for 142 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  75i,15n,80p,10403b,2180s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
@@ -3235,9 +3226,9 @@ fonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 gram Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/
 fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/pa
 latino/uplr8a.pfb>
-Output written on Hauptgerüst.pdf (13 pages, 210181 bytes).
+Output written on Hauptgerüst.pdf (13 pages, 211433 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
+ 176 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
- 24636 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 24652 words of extra memory for PDF output out of 24883 (max. 10000000)
 
